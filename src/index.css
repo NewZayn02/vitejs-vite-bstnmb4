@@ -53,6 +53,10 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+#primary-button0{
+  display: flex;
+  align-items: center;
+}
 
 @media (prefers-color-scheme: light) {
   :root {
